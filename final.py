@@ -307,7 +307,7 @@ class Calculator:
 # tkinter layout
 root = tk.Tk()
 b = Calculator(root)
-root.title("Simple Scientific Calculator")
+root.title("by Nehir Çakar")
 root.geometry("650x490+50+50")
 root.resizable(False, False)
 root.mainloop()
